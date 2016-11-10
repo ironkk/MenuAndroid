@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="pref_header_general">General</string>
+    <string name="text01">Favorite #1</string>
+    <string name="url01">URL #1</string>
+
+
+</resources>

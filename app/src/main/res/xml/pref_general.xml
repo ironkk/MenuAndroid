@@ -1,0 +1,17 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <EditTextPreference
+        android:inputType="text"
+        android:key="text01"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:title="@string/text01" />
+    <EditTextPreference
+        android:inputType="textUri"
+        android:key="url01"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:title="@string/url01" />
+
+
+</PreferenceScreen>
